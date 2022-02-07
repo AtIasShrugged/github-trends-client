@@ -1,0 +1,17 @@
+.card {
+	background-color: rgba(47, 52, 94, 0.7);
+	border: 1px solid rgb(69, 16, 100);
+	border-radius: 12px;
+	padding: 15px;
+	margin: 10px;
+}
+
+.title {
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.desc {
+	font-size: 20px;
+	padding: 5px 0;
+}
